@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Hugo Meira Maia, tenho 17 anos e sou natural do Rio de Janeiro. Estou no 3º do ensino médio na ETPC e cursando técnico em informática. Sou apaixonado por tecnologia e sempre estou participando de cursos, intensivos, imersões e eventos de tecnologias emergentes.
+Me chamo Hugo Meira Maia, tenho 17 anos e sou natural de Volta Redonda, RJ. Estou no 3º do ensino médio na ETPC e cursando técnico em informática. Sou apaixonado por tecnologia e sempre estou participando de cursos, intensivos, imersões e eventos de tecnologias emergentes.
 
 
 
